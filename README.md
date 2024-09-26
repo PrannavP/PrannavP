@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: An event ticketing system with React, Node.js and PostgreSQL,<br>🌱 I’m currently learning: Docker and advanced backend development with PostgreSQL,<br>💬 Ask me about: Frontend and backend development, especially using React and Node.js,<br>⚡ Fun fact: I'm a tech enthusiast with a love for aviation and gaming!
+🔭 I’m currently working on: An event ticketing system with React, Node.js and PostgreSQL,<br>🌱 I’m currently learning: Docker and advanced backend development with PostgreSQL,<br>⚡ Fun fact: I'm a tech enthusiast with a love for aviation and gaming!
 
 
 ## 🌐 Socials:
